@@ -1,5 +1,5 @@
 # PyTorch Implementation of Neural Delay Differential Equations (NDDEs)
-The source code of NDDEs will being released. If you have any question about this software, please contact Qunxi Zhu (qxzhu16@fudan.edu.cn).
+The source code of NDDEs will be released. If you have any question about this software, please contact Qunxi Zhu (qxzhu16@fudan.edu.cn).
 
 ## References
 
