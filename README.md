@@ -4,7 +4,6 @@ The source code of NDDEs will be released. If you have any question about this s
 ## References
 
 
-
 Zhu, Q., Guo, Y., & Lin, W. (2023). "Neural Delay Differential Equations." *International Conference on Learning Representations.* 2021. [[arxiv]](https://arxiv.org/abs/2102.10801)
 
 ```
@@ -29,6 +28,8 @@ Zhu, Q., Guo, Y., & Lin, W. (2023). "Neural Delay Differential Equations: System
 
 ```
 
+If you found this library useful in your research on the delay system reconstruction, please consider citing the following paper as well.
+
 Zhu, Q., Li X., & Lin, W. (2023). "Leveraging neural differential equations and adaptive delayed feedback to detect unstable periodic orbits based on irregularly-sampled time series.", *CHAOS*, Fast track, Editor’s Pick, 33(3),031101. [[url]](https://doi.org/10.1063/5.0143839)
 ```
 @article{zhu2023leveraging,
@@ -42,13 +43,3 @@ Zhu, Q., Li X., & Lin, W. (2023). "Leveraging neural differential equations and 
 }
 ```
 
-Zhu, Q., Guo, Y., & Lin, W. (2023). "Neural Delay Differential Equations." *International Conference on Learning Representations.* 2021. [[arxiv]](https://arxiv.org/abs/2102.10801)
-
-```
-@article{zhu2021neural,
-  title={Neural delay differential equations},
-  author={Zhu, Qunxi and Guo, Yao and Lin, Wei},
-  journal={arXiv preprint arXiv:2102.10801},
-  year={2021}
-}
-```
