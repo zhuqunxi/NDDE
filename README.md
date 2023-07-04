@@ -1,5 +1,5 @@
 # PyTorch Implementation of Neural Delay Differential Equations (NDDEs)
-The source code of NDDEs will be fully released once our extended work is published. If you have any question about this software, please contact Qunxi Zhu (qxzhu16@fudan.edu.cn).
+The source code of NDDEs will be fully released once our extended work is published. If you have any questions about this software, please contact Qunxi Zhu (qxzhu16@fudan.edu.cn).
 
 ## Examples
 Examples can be found in the [`Examples`](./Examples) directory.
@@ -10,7 +10,8 @@ Please run the following code in [`Examples/Mackey_Glass/MGlass.py`], the model 
 ```
 python MGlass.py
 ```
-One can use the following Colab link for this example.
+One can use the following Colab link for this example as well.
+
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1O_YoTMWy4HGN9v984EvV8ijUXj_xCjTg?usp=sharing)
 ## References
 
