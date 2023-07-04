@@ -1,6 +1,16 @@
 # PyTorch Implementation of Neural Delay Differential Equations (NDDEs)
 The source code of NDDEs will be released. If you have any question about this software, please contact Qunxi Zhu (qxzhu16@fudan.edu.cn).
 
+## Examples
+Examples can be found in the [`Examples`](./Examples) directory.
+
+We encourage those who are interested in using the NDDEs framework to run the code [`Examples/Mackey_Glass/MGlass.py`](./Examples/Mackey_Glass/MGlass.py) for understanding how to use `NDDEs` to fit a typical 1-D delay system, i.e., Mackey Glass system.
+
+Please run the following code in [`Examples/Mackey_Glass/MGlass.py`], the model checkpoints and the reconstruction figures are saved in the files  'model' and 'figures'.
+```
+python MGlass.py
+```
+
 ## References
 
 
