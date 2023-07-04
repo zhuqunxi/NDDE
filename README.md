@@ -10,7 +10,8 @@ Please run the following code in [`Examples/Mackey_Glass/MGlass.py`], the model 
 ```
 python MGlass.py
 ```
-
+One can use the following Colab link for this example.
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1O_YoTMWy4HGN9v984EvV8ijUXj_xCjTg?usp=sharing)
 ## References
 
 If you found this library useful in your research, please consider citing the following papers.
