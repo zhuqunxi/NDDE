@@ -13,6 +13,8 @@ python MGlass.py
 
 ## References
 
+If you found this library useful in your research, please consider citing the following papers.
+
 
 Zhu, Q., Guo, Y., & Lin, W. (2023). "Neural Delay Differential Equations." *International Conference on Learning Representations.* 2021. [[arxiv]](https://arxiv.org/abs/2102.10801)
 
@@ -38,7 +40,7 @@ Zhu, Q., Guo, Y., & Lin, W. (2023). "Neural Delay Differential Equations: System
 
 ```
 
-If you found this library useful in your research on the delay system reconstruction, please consider citing the following paper as well.
+Time delay system reconstruction.
 
 Zhu, Q., Li X., & Lin, W. (2023). "Leveraging neural differential equations and adaptive delayed feedback to detect unstable periodic orbits based on irregularly-sampled time series.", *CHAOS*, Fast track, Editor’s Pick, 33(3),031101. [[url]](https://doi.org/10.1063/5.0143839)
 ```
