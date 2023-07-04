@@ -26,7 +26,7 @@ Zhu, Q., Guo, Y., & Lin, W. (2023). "Neural Delay Differential Equations." *Inte
   year={2021}
 }
 ```
-An extended version:
+An extended version of NDDEs:
 
 Zhu, Q., Guo, Y., & Lin, W. (2023). "Neural Delay Differential Equations: System Reconstruction and Image Classification." *arXiv preprint arXiv:2304.05310.* 2023. [[arxiv]](https://arxiv.org/abs/2304.05310)
 
